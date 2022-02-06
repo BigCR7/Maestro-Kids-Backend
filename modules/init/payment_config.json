@@ -1,0 +1,22 @@
+[
+    {
+        "_id": 1,
+        "amount": 50,
+        "currency": "AUD"
+    },
+    {
+        "_id": 2,
+        "amount": 100,
+        "currency": "AUD"
+    },
+    {
+        "_id": 3,
+        "amount": 250,
+        "currency": "AUD"
+    },
+    {
+        "_id": 4,
+        "amount": 500,
+        "currency": "AUD"
+    }
+]

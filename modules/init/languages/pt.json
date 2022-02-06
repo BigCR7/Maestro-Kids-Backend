@@ -1,0 +1,8 @@
+{
+    "verify_subject": "Welcome to Maestrokids!",
+    "verify_text": "Please verify your email. Click here: ",
+    "resetpw_text": "Please reset your password with this link. Click here: ",
+    "donate_subject": "Thank you for your donation!",
+    "donate_text1": "We received ",
+    "donate_text2": " for your donation. Thank you."
+}
